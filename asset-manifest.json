@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ruslan-Tretiak/practic/static/css/main.7acaea2f.css",
-    "main.js": "/Ruslan-Tretiak/practic/static/js/main.9e8dc7c2.js",
+    "main.js": "/Ruslan-Tretiak/practic/static/js/main.599fed83.js",
     "index.html": "/Ruslan-Tretiak/practic/index.html",
     "main.7acaea2f.css.map": "/Ruslan-Tretiak/practic/static/css/main.7acaea2f.css.map",
-    "main.9e8dc7c2.js.map": "/Ruslan-Tretiak/practic/static/js/main.9e8dc7c2.js.map"
+    "main.599fed83.js.map": "/Ruslan-Tretiak/practic/static/js/main.599fed83.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.9e8dc7c2.js"
+    "static/js/main.599fed83.js"
   ]
 }
